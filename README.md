@@ -62,6 +62,8 @@ contains 1 for “healthy” and 2 for “unhealthy” and is the class variable
 
 Using the model, we can classify different text self dieting descriptions into healthy or unhealthy
 categories:
+![capture](https://user-images.githubusercontent.com/36937610/42912819-34a9d9d2-8aa6-11e8-80a3-a4acde8d1b81.PNG)
+
 
 
 ## Files:
