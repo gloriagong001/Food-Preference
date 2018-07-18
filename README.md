@@ -25,7 +25,7 @@ several about exercises. The third one is open questions and is ideal for text m
 **Statistical analysis** and **Natural Language Processing** were used.
 
 ## Results:
-1. Data Visualization
+1. Data Visualization \t
 The frequency of different comfort food answered by different respondents were visualized
 ![capture](https://user-images.githubusercontent.com/36937610/42911934-d58b89d6-8aa1-11e8-9b1d-458e6a67d4b7.PNG)
 
