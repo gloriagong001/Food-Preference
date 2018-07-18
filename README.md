@@ -51,6 +51,10 @@ frequent food also contain words including “Healthy”, “Vegetable” and �
 The variables which are statistically significant with BMI can be depicted as below:
 ![capture](https://user-images.githubusercontent.com/36937610/42912671-71f8729a-8aa5-11e8-9a7f-bd156794bf86.PNG)
 
+**Text Mining**
+The values in “diet_current” are all text, which can be perfect for building a classification model. The “diet_current_coded” attribute
+contains 1 for “healthy” and 2 for “unhealthy” and is the class variable. I imported sklearn (especially sklearn.naive_bayes as the classification basis) and divided the data into 70% training and 30% testing.
+
 
 ## Files:
 
