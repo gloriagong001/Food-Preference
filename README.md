@@ -47,6 +47,9 @@ frequent food also contain words including “Healthy”, “Vegetable” and �
 
 **Correlation Analysis Between BMI and Nominal Attributes**
 
+![capture](https://user-images.githubusercontent.com/36937610/42912626-35b85aa2-8aa5-11e8-91ea-ca74673f1b27.PNG)
+
+The variables which are statistically significant with BMI can be depicted as below:
 
 
 ## Files:
