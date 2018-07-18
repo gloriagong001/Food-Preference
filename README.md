@@ -55,6 +55,10 @@ The variables which are statistically significant with BMI can be depicted as be
 The values in “diet_current” are all text, which can be perfect for building a classification model. The “diet_current_coded” attribute
 contains 1 for “healthy” and 2 for “unhealthy” and is the class variable. I imported sklearn (especially sklearn.naive_bayes as the classification basis) and divided the data into 70% training and 30% testing.
 
+**The accuracy of the model:**
+
+![capture](https://user-images.githubusercontent.com/36937610/42912772-f425ab16-8aa5-11e8-817a-97e60df9fcde.PNG)
+
 
 ## Files:
 
