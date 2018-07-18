@@ -64,7 +64,10 @@ Using the model, we can classify different text self dieting descriptions into h
 categories:
 ![capture](https://user-images.githubusercontent.com/36937610/42912819-34a9d9d2-8aa6-11e8-80a3-a4acde8d1b81.PNG)
 
-##Takeaways
+## Recommendations
+
+![picture1](https://user-images.githubusercontent.com/36937610/42912898-b1d981a0-8aa6-11e8-8923-22b09b732d1b.png)
+
 
 
 ## Files:
