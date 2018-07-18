@@ -14,7 +14,8 @@ Are these kids likely to have a different taste compared to others?
 
 #Files:
 
-**Diet_Classifer.ipynb**   --------        Healthy Diet Prediction model using Natural Language Processing
+**Diet_Classifer.ipynb**   --------        Healthy Diet Prediction model using Natural Language Processing  \t
+
 **GPA &diet.ipynb**     -------------Statistical analysis between diet habbit and GPA
 
 
