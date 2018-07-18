@@ -25,7 +25,7 @@ several about exercises. The third one is open questions and is ideal for text m
 
 ###Files:
 
-**Diet_Classifer.ipynb**   --------        Healthy Diet Prediction model using Natural Language Processing  \t
+**Diet_Classifer.ipynb**   --------        Healthy Diet Prediction model using Natural Language Processing  
 
 **GPA &diet.ipynb**     -------------Statistical analysis between diet habbit and GPA
 
