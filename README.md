@@ -20,8 +20,13 @@ several about exercises. The third one is open questions and is ideal for text m
 
 ![capture](https://user-images.githubusercontent.com/36937610/42911689-e1822c0a-8aa0-11e8-9f3f-f41254bd77f5.PNG)
 
+## Method
 
 **Statistical analysis** and **Natural Language Processing** were used.
+
+## Results:
+1. Data Visualization
+
 
 ## Files:
 
