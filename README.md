@@ -20,11 +20,11 @@ several about exercises. The third one is open questions and is ideal for text m
 
 ![capture](https://user-images.githubusercontent.com/36937610/42911689-e1822c0a-8aa0-11e8-9f3f-f41254bd77f5.PNG)
 
-## Method
+## Methods& Results
 
 **Statistical analysis** and **Natural Language Processing** were used.
 
-## Results:
+
 1. Data Visualization 
 
 The frequency of different comfort food answered by different respondents were visualized
@@ -42,6 +42,10 @@ BMI group are “Eat”, “Lot”, “Food” and “Time”. As for the group 
 frequent food also contain words including “Healthy”, “Vegetable” and “Fruit”.
 ![capture](https://user-images.githubusercontent.com/36937610/42912016-2496cffe-8aa2-11e8-89db-b74bdb8492b5.PNG)
 
+
+2. Data Analysis
+
+**Correlation Analysis Between BMI and Nominal Attributes**
 
 
 
