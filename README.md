@@ -9,7 +9,7 @@ Is their taste in food defined by their food preferences when they were children
 Are kids of parents who cook more likely to make better food choices than others?
 Are these kids likely to have a different taste compared to others?
 
-##Dataset
+## Dataset
 
 The dataset is from Kaggle: https://www.kaggle.com/borapajo/food-choices/home
 
@@ -23,7 +23,7 @@ several about exercises. The third one is open questions and is ideal for text m
 
 **Statistical analysis** and **Natural Language Processing** were used.
 
-##Files:
+## Files:
 
 **Diet_Classifer.ipynb**   --------        Healthy Diet Prediction model using Natural Language Processing  
 
